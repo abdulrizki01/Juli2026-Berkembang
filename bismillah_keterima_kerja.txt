@@ -4,3 +4,4 @@ Rencana:
 - Belajar Rest API & GraphQL
 - Belajar Laravel
 - Keterima kerja
+- Bersyukur
