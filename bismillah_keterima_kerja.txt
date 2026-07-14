@@ -1,0 +1,6 @@
+Rencana:
+- Belajar persiapan Belajar React
+- Berlajar React
+- Belajar Rest API & GraphQL
+- Belajar Laravel
+- Keterima kerja
